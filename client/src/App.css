@@ -1,0 +1,19 @@
+/* Includes the Color Codes and Overall Other Useful Css For the Project */
+@import "tailwindcss";
+
+
+
+:root{
+  --flag-outline: #003893;
+  --flag-body: #DC143C;
+  --flag-star: #FFFFFF;
+}
+
+
+*{
+  background: var(--flag-body);
+}
+
+.logo{
+  font-size: 2em;
+}
